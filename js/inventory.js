@@ -74,6 +74,7 @@ export function renderInventory() {
     if (!item) return;
     editingId = id; pendingMedia = item.media || null;
     document.getElementById('inp-item-name').value = item.name;
+    document.getElementById('inp-item-productgroup').value = item.productGroup || '';
     document.getElementById('inp-item-category').value = item.category;
     document.getElementById('inp-item-unit').value = item.unit;
     document.getElementById('inp-item-price').value = item.price;
@@ -97,6 +98,7 @@ function saveItem(e) {
   const item = {
     id: editingId || genId(),
     name: document.getElementById('inp-item-name').value.trim(),
+    productGroup: document.getElementById('inp-item-productgroup').value.trim(),
     category: document.getElementById('inp-item-category').value,
     unit: document.getElementById('inp-item-unit').value.trim(),
     price: parseFloat(document.getElementById('inp-item-price').value) || 0,
