@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  zbom:
+    build: .
+    container_name: zbom-app
+    restart: unless-stopped
+    ports:
+      - "3080:80"
+    labels:
+      - "traefik.enable=false"
+      - "com.zeebee.app=zbom"

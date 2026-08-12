@@ -14,5 +14,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Node
+# Node (nếu có dùng sau này)
 node_modules/
