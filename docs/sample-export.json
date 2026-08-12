@@ -1,0 +1,203 @@
+{
+  "users": [
+    { "id": 1, "name": "Trương Hoàng Lâm", "email": "admin@zeebee.io.vn", "role": "admin", "createdAt": 1785600000000 },
+    { "id": 2, "name": "Nguyễn Văn Kho", "email": "owner@zeebee.io.vn", "role": "owner", "createdAt": 1785600500000 },
+    { "id": 3, "name": "Lê Thị Khảo Sát", "email": "staff@zeebee.io.vn", "role": "staff", "createdAt": 1785950000000 }
+  ],
+  "inventory": [
+    {
+      "id": 1786200000123,
+      "name": "Thép tấm 5mm",
+      "category": "vat_lieu",
+      "unit": "tấm",
+      "price": 850000,
+      "media": {
+        "type": "image/png",
+        "data": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
+      },
+      "supplierName": "Cty TNHH Thép Việt Phát",
+      "supplierContact": "0909 111 222",
+      "supplierAddress": "12 Nguyễn Văn Linh, Q7, TP.HCM",
+      "supplierNote": "Giao hàng trong 2 ngày, thanh toán 50% cọc",
+      "createdAt": 1786200000123
+    },
+    {
+      "id": 1786200100456,
+      "name": "Xi măng Hà Tiên PCB40",
+      "category": "vat_lieu",
+      "unit": "bao",
+      "price": 95000,
+      "media": null,
+      "supplierName": "Đại lý VLXD Minh Tâm",
+      "supplierContact": "0918 333 444",
+      "supplierAddress": "45 Lê Văn Việt, Q9, TP.HCM",
+      "supplierNote": "",
+      "createdAt": 1786200100456
+    },
+    {
+      "id": 1786250000789,
+      "name": "Xe cẩu 5 tấn",
+      "category": "ccdc",
+      "unit": "ca (8h)",
+      "price": 3500000,
+      "media": null,
+      "supplierName": "Cho thuê máy Đông Á",
+      "supplierContact": "0977 555 666",
+      "supplierAddress": "",
+      "supplierNote": "Cần đặt trước 1 ngày",
+      "createdAt": 1786250000789
+    },
+    {
+      "id": 1786300000234,
+      "name": "Dịch vụ khảo sát địa chất",
+      "category": "dich_vu",
+      "unit": "gói",
+      "price": 12000000,
+      "media": null,
+      "supplierName": "Cty Khảo Sát Địa Kỹ Thuật An Phát",
+      "supplierContact": "028.3999.8888",
+      "supplierAddress": "88 Cộng Hòa, Tân Bình, TP.HCM",
+      "supplierNote": "Bao gồm báo cáo địa chất công trình",
+      "createdAt": 1786300000234
+    }
+  ],
+  "bomHistory": [
+    {
+      "id": 1786400000111,
+      "project": "Công trình Nhà xưởng Bình Chánh",
+      "staff": "Lê Thị Khảo Sát",
+      "note": "Đợt vật tư đầu tiên",
+      "items": [
+        {
+          "inventoryId": 1786200000123,
+          "qty": 3,
+          "snapshot": {
+            "id": 1786200000123,
+            "name": "Thép tấm 5mm",
+            "category": "vat_lieu",
+            "unit": "tấm",
+            "price": 850000,
+            "media": {
+              "type": "image/png",
+              "data": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
+            },
+            "supplierName": "Cty TNHH Thép Việt Phát",
+            "supplierContact": "0909 111 222",
+            "supplierAddress": "12 Nguyễn Văn Linh, Q7, TP.HCM",
+            "supplierNote": "Giao hàng trong 2 ngày, thanh toán 50% cọc",
+            "createdAt": 1786200000123
+          }
+        },
+        {
+          "inventoryId": 1786200100456,
+          "qty": 50,
+          "snapshot": {
+            "id": 1786200100456,
+            "name": "Xi măng Hà Tiên PCB40",
+            "category": "vat_lieu",
+            "unit": "bao",
+            "price": 95000,
+            "media": null,
+            "supplierName": "Đại lý VLXD Minh Tâm",
+            "supplierContact": "0918 333 444",
+            "supplierAddress": "45 Lê Văn Việt, Q9, TP.HCM",
+            "supplierNote": "",
+            "createdAt": 1786200100456
+          }
+        }
+      ],
+      "total": 7300000,
+      "status": "approved",
+      "createdAt": 1786400000111,
+      "reviewedAt": 1786450000111,
+      "reviewer": "owner",
+      "rejectReason": null
+    },
+    {
+      "id": 1786450000222,
+      "project": "Công trình Nhà xưởng Bình Chánh",
+      "staff": "Lê Thị Khảo Sát",
+      "note": "Thuê xe cẩu lắp dựng khung thép",
+      "items": [
+        {
+          "inventoryId": 1786250000789,
+          "qty": 1,
+          "snapshot": {
+            "id": 1786250000789,
+            "name": "Xe cẩu 5 tấn",
+            "category": "ccdc",
+            "unit": "ca (8h)",
+            "price": 3500000,
+            "media": null,
+            "supplierName": "Cho thuê máy Đông Á",
+            "supplierContact": "0977 555 666",
+            "supplierAddress": "",
+            "supplierNote": "Cần đặt trước 1 ngày",
+            "createdAt": 1786250000789
+          }
+        }
+      ],
+      "total": 3500000,
+      "status": "rejected",
+      "createdAt": 1786450000222,
+      "reviewedAt": 1786470000222,
+      "reviewer": "admin",
+      "rejectReason": "Vượt ngân sách hạng mục CCDC tháng này"
+    },
+    {
+      "id": 1786500000333,
+      "project": "Công trình Nhà xưởng Bình Chánh",
+      "staff": "Lê Thị Khảo Sát",
+      "note": "",
+      "items": [
+        {
+          "inventoryId": 1786300000234,
+          "qty": 1,
+          "snapshot": {
+            "id": 1786300000234,
+            "name": "Dịch vụ khảo sát địa chất",
+            "category": "dich_vu",
+            "unit": "gói",
+            "price": 12000000,
+            "media": null,
+            "supplierName": "Cty Khảo Sát Địa Kỹ Thuật An Phát",
+            "supplierContact": "028.3999.8888",
+            "supplierAddress": "88 Cộng Hòa, Tân Bình, TP.HCM",
+            "supplierNote": "Bao gồm báo cáo địa chất công trình",
+            "createdAt": 1786300000234
+          }
+        },
+        {
+          "inventoryId": 1786200000123,
+          "qty": 10,
+          "snapshot": {
+            "id": 1786200000123,
+            "name": "Thép tấm 5mm",
+            "category": "vat_lieu",
+            "unit": "tấm",
+            "price": 850000,
+            "media": {
+              "type": "image/png",
+              "data": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
+            },
+            "supplierName": "Cty TNHH Thép Việt Phát",
+            "supplierContact": "0909 111 222",
+            "supplierAddress": "12 Nguyễn Văn Linh, Q7, TP.HCM",
+            "supplierNote": "Giao hàng trong 2 ngày, thanh toán 50% cọc",
+            "createdAt": 1786200000123
+          }
+        }
+      ],
+      "total": 20500000,
+      "status": "pending",
+      "createdAt": 1786500000333,
+      "reviewedAt": null,
+      "reviewer": null,
+      "rejectReason": null
+    }
+  ],
+  "currentBomItems": [
+    { "inventoryId": 1786200100456, "qty": 20 }
+  ],
+  "currentRole": "staff"
+}
