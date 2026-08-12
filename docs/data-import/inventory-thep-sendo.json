@@ -3,6 +3,7 @@
     {
       "id": 1786538463912,
       "name": "Vuông 20 1,1 SENDO",
+      "productGroup": "Vuông 20 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 79000,
@@ -16,6 +17,7 @@
     {
       "id": 1786538463913,
       "name": "Vuông 20 1,2 SENDO",
+      "productGroup": "Vuông 20 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 86000,
@@ -29,6 +31,7 @@
     {
       "id": 1786538463914,
       "name": "Vuông 20 1,4 SENDO",
+      "productGroup": "Vuông 20 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 97000,
@@ -42,6 +45,7 @@
     {
       "id": 1786538463915,
       "name": "Vuông 25 1,1 SENDO",
+      "productGroup": "Vuông 25 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 101000,
@@ -55,6 +59,7 @@
     {
       "id": 1786538463916,
       "name": "Vuông 25 1,2 SENDO",
+      "productGroup": "Vuông 25 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 110000,
@@ -68,6 +73,7 @@
     {
       "id": 1786538463917,
       "name": "Vuông 25 1,4 SENDO",
+      "productGroup": "Vuông 25 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 125000,
@@ -81,6 +87,7 @@
     {
       "id": 1786538463918,
       "name": "Vuông 30 1,2 SENDO",
+      "productGroup": "Vuông 30 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 132000,
@@ -94,6 +101,7 @@
     {
       "id": 1786538463919,
       "name": "Vuông 30 1,4 SENDO",
+      "productGroup": "Vuông 30 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 150000,
@@ -107,6 +115,7 @@
     {
       "id": 1786538463920,
       "name": "Vuông 40 1,2 Việt Nhật",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 176000,
@@ -120,6 +129,7 @@
     {
       "id": 1786538463921,
       "name": "Vuông 40 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 198000,
@@ -133,6 +143,7 @@
     {
       "id": 1786538463922,
       "name": "Vuông 50 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 251000,
@@ -146,6 +157,7 @@
     {
       "id": 1786538463923,
       "name": "Vuông 75 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 385000,
@@ -159,6 +171,7 @@
     {
       "id": 1786538463924,
       "name": "Vuông 90 1,4 SENDO",
+      "productGroup": "Vuông 90 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 462000,
@@ -172,6 +185,7 @@
     {
       "id": 1786538463925,
       "name": "Vuông 90 1,8 SENDO",
+      "productGroup": "Vuông 90 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 627000,
@@ -185,6 +199,7 @@
     {
       "id": 1786538463926,
       "name": "HK 13X26 1,1 SENDO",
+      "productGroup": "HK 13X26 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 79000,
@@ -198,6 +213,7 @@
     {
       "id": 1786538463927,
       "name": "HK 13X26 1,2 SENDO",
+      "productGroup": "HK 13X26 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 86000,
@@ -211,6 +227,7 @@
     {
       "id": 1786538463928,
       "name": "HK 20X40 1,1 SENDO",
+      "productGroup": "HK 20X40 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 125000,
@@ -224,6 +241,7 @@
     {
       "id": 1786538463929,
       "name": "HK 20X40 1,2 SENDO",
+      "productGroup": "HK 20X40 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 132000,
@@ -237,6 +255,7 @@
     {
       "id": 1786538463930,
       "name": "HK 20X40 1,4 SENDO",
+      "productGroup": "HK 20X40 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 150000,
@@ -250,6 +269,7 @@
     {
       "id": 1786538463931,
       "name": "HK 25X50 1,1 SENDO",
+      "productGroup": "HK 25X50 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 158000,
@@ -263,6 +283,7 @@
     {
       "id": 1786538463932,
       "name": "HK 25X50 1,2 SENDO",
+      "productGroup": "HK 25X50 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 169000,
@@ -276,6 +297,7 @@
     {
       "id": 1786538463933,
       "name": "HK 25X50 1,4 SENDO",
+      "productGroup": "HK 25X50 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 191000,
@@ -289,6 +311,7 @@
     {
       "id": 1786538463934,
       "name": "HK 30X60 1,2 SENDO",
+      "productGroup": "HK 30X60 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 198000,
@@ -302,6 +325,7 @@
     {
       "id": 1786538463935,
       "name": "HK 30X60 1,4 SENDO",
+      "productGroup": "HK 30X60 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 224000,
@@ -315,6 +339,7 @@
     {
       "id": 1786538463936,
       "name": "HK 30X90 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 310000,
@@ -328,6 +353,7 @@
     {
       "id": 1786538463937,
       "name": "HK 40X80 1,2 SENDO",
+      "productGroup": "HK 40X80 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 268000,
@@ -341,6 +367,7 @@
     {
       "id": 1786538463938,
       "name": "HK 40X80 1,4 SENDO",
+      "productGroup": "HK 40X80 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 301000,
@@ -354,6 +381,7 @@
     {
       "id": 1786538463939,
       "name": "HK 40X80 1,8 SENDO",
+      "productGroup": "HK 40X80 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 416000,
@@ -367,6 +395,7 @@
     {
       "id": 1786538463940,
       "name": "HK 50X100 1,4 SENDO",
+      "productGroup": "HK 50X100 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 385000,
@@ -380,6 +409,7 @@
     {
       "id": 1786538463941,
       "name": "HK 50X100 1,8 SENDO",
+      "productGroup": "HK 50X100 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 524000,
@@ -393,6 +423,7 @@
     {
       "id": 1786538463942,
       "name": "HK 60X120 1,4 SENDO",
+      "productGroup": "HK 60X120 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 462000,
@@ -406,6 +437,7 @@
     {
       "id": 1786538463943,
       "name": "HK 60X120 1,8 SENDO",
+      "productGroup": "HK 60X120 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 631000,
@@ -419,6 +451,7 @@
     {
       "id": 1786538463944,
       "name": "Ống 16 SenDo",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 57000,
@@ -432,6 +465,7 @@
     {
       "id": 1786538463945,
       "name": "Ống 21 1,4 Việt Nhật",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 84000,
@@ -445,6 +479,7 @@
     {
       "id": 1786538463946,
       "name": "Ống 27 1,4 SenDo",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 112000,
@@ -458,6 +493,7 @@
     {
       "id": 1786538463947,
       "name": "Ống 34 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 139000,
@@ -471,6 +507,7 @@
     {
       "id": 1786538463948,
       "name": "Ống 42 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 174000,
@@ -484,6 +521,7 @@
     {
       "id": 1786538463949,
       "name": "Ống 49 1,4 Việt Nhật",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 196000,
@@ -497,6 +535,7 @@
     {
       "id": 1786538463950,
       "name": "Ống 60 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 246000,
@@ -510,6 +549,7 @@
     {
       "id": 1786538463951,
       "name": "Ống 76 1,4 SENDO",
+      "productGroup": "",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 308000,
@@ -523,6 +563,7 @@
     {
       "id": 1786538463952,
       "name": "Ống 90 1,4 SENDO",
+      "productGroup": "Ống 90 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 381000,
@@ -536,6 +577,7 @@
     {
       "id": 1786538463953,
       "name": "Ống 90 1,8 SENDO",
+      "productGroup": "Ống 90 SENDO",
       "category": "vat_lieu",
       "unit": "Cây",
       "price": 502000,
